@@ -9,5 +9,5 @@ Aquest repositori conte la memoria del treball que ha donat com a resultat la pr
 
 ## Mapes d'idoneïtat
 
-[![Descarregar ultim versió dels mapes d'idoneïtat](https://img.shields.io/badge/DESCARREGAR%20MAPES%20D%27IDONE%C3%8FTAT-%C3%9Altima%20release-blue?style=for-the-badge&logo=github)](https://github.com/ubedaguiu-sys/Manual-Actuacions-Llobregat/releases/latest)
+[![Descarregar ultima versió dels mapes d'idoneïtat](https://img.shields.io/badge/DESCARREGAR%20MAPES%20D%27IDONE%C3%8FTAT-%C3%9Altima%20release-blue?style=for-the-badge&logo=github)](https://github.com/ubedaguiu-sys/Manual-Actuacions-Llobregat/releases/latest)
 

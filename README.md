@@ -3,9 +3,11 @@ Aquest repositori conte la memoria del treball que ha donat com a resultat la pr
 
 ## Manual d'actuacions
 
-<a href="Manual%20d%E2%80%99Actuacions%20per%20a%20la%20Millora%20(1).pdf">
-  <img src="assets/portada-manual.png" alt="Portada del Manual d'Actuacions" width="350">
-</a>
+<p align="center">
+  <a href="./Manual%20d%E2%80%99Actuacions%20per%20a%20la%20Millora%20%281%29.pdf">
+    <img src="./assets/portada-manual.png" alt="Portada del Manual d'Actuacions" width="420">
+  </a>
+</p>
 
 ## Mapes d'idoneïtat
 

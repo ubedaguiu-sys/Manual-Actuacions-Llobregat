@@ -11,4 +11,4 @@ Aquest repositori conte la memoria del treball que ha donat com a resultat la pr
   <img src="portada-manual.png" alt="Portada del Manual d'Actuacions" width="350">
 </a>
 
-[Obrir el Manual d'Actuacions](Manual%20d%E2%80%99Actuacions%20per%20a%20la%20Millora%20(1).pdf)
+(Manual%20d%E2%80%99Actuacions%20per%20a%20la%20Millora%20(1).pdf)

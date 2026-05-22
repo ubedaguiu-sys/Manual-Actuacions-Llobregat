@@ -1,5 +1,5 @@
 # Manual d'actuacións Llobregat
-Aquest repositori conte la memoria del treball que ha donat com a resultat la primera versió d'un manual d'actucións per a la millora de la biodiversitat al Riu Llobregat,  El propi Manual i alguns materials addicionals que serveixen per entendre com ha estat el procés de creació ç
+Aquest repositori conte la memoria del treball que ha donat com a resultat la primera versió d'un manual d'actucións per a la millora de la biodiversitat al Riu Llobregat,  El propi Manual i alguns materials addicionals que serveixen per entendre com ha estat el procés de creació 
 
 ## Mapes d'idoneïtat
 Els mapes d'idoneïtat es poden descarregar des de l'última release del repositori:

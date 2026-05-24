@@ -8,6 +8,7 @@ Aquest repositori conte la memoria del treball que ha donat com a resultat la pr
     <img src="./assets/portada-manual.png" alt="Portada del Manual d'Actuacions" width="420">
   </a>
 </p>
+
 ## Mapes d'idoneïtat
 
 [![Descarregar ultima versió dels mapes d'idoneïtat](https://img.shields.io/badge/DESCARREGAR%20MAPES%20D%27IDONE%C3%8FTAT-%C3%9Altima%20release-blue?style=for-the-badge&logo=github)](https://github.com/ubedaguiu-sys/Manual-Actuacions-Llobregat/releases/latest)

@@ -81,10 +81,10 @@ El treball s’ha desenvolupat a partir de sis blocs principals:
    Adaptació d’una base de dades prèvia de l’AMB cap a un model relacional més funcional, amb taules per a espècies, grups, hàbitats CORINE, propostes, plantes, basses, calendari i manteniment.
 
 3. **Selecció i revisió d’espècies**  
-   Incorporació i revisió d’espècies d’interès per al context del Llobregat, incloent espècies indicadores, funcionals, en regressió, exòtiques invasores o potencialment problemàtiques.
+   Incorporació i revisió d’espècies d’interès per al context del Llobregat, incloent en la base de dades, per a posteriorment orientar les propostes d'acctuació, aquelles espècies indicadores, funcionals, en regressió, exòtiques invasores o potencialment problemàtiques.
 
 4. **Recopilació d’informació ecològica**  
-   Cerca bibliogràfica sobre hàbitats, requeriments ecològics, amenaces, relació amb el medi, pressions antròpiques i possibilitats de gestió.
+   Cerca bibliogràfica sobre hàbitats, requeriments ecològics de les especies, amenaces, relació amb el medi, pressions antròpiques i possibilitats de gestió...
 
 5. **Generació de mapes d’idoneïtat**  
    Elaboració de mapes ràster mitjançant QGIS/PyQGIS a partir de variables com hàbitats CORINE, NDVI, ecotons, connectivitat, basses, murs, edificis, arbustos i altres capes territorials.

@@ -12,16 +12,20 @@ Aquest repositori conté la memòria del treball que ha donat com a resultat la 
 
 ## Mapes d'idoneïtat
 
+Els mapes d'idoneïtat es poden descarregar des de la darrera actualització disponible:
+
 <p align="center">
   <a href="https://github.com/ubedaguiu-sys/Manual-Actuacions-Llobregat/releases/tag/Mapes.V1">
-    <img src="https://img.shields.io/badge/DESCARREGAR%20MAPES%20D%27IDONE%C3%8FTAT-%C3%BAltima%20actualitzaci%C3%B3-blue?style=for-the-badge&logo=github" alt="Descarregar última actualització dels mapes d'idoneïtat">
+    <img src="https://img.shields.io/badge/MAPES%20D%27IDONE%C3%8FTAT-%C3%9Altima%20actualitzaci%C3%B3-3C7A3E?style=for-the-badge" alt="Descarregar última actualització dels mapes d'idoneïtat">
   </a>
 </p>
 
-## Memoria
+## Memòria
+
+La memòria del treball es pot descarregar des de la seva darrera actualització:
 
 <p align="center">
   <a href="https://github.com/ubedaguiu-sys/Manual-Actuacions-Llobregat/releases/tag/Memoria">
-    <img src="https://img.shields.io/badge/DESCARREGAR%20MEM%C3%92RIA-%C3%BAltima%20actualitzaci%C3%B3-blue?style=for-the-badge&logo=github" alt="Descarregar última release de la memòria">
+    <img src="https://img.shields.io/badge/MEM%C3%92RIA-%C3%9Altima%20actualitzaci%C3%B3-1F4E79?style=for-the-badge" alt="Descarregar última actualització de la memòria">
   </a>
 </p>

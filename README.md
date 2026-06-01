@@ -56,7 +56,7 @@ Els mapes són útils com a eina preliminar de diagnosi i planificació, però p
 - Depenen de la qualitat i escala de les capes cartogràfiques disponibles;
 - Actualment, no tots incorporen microhàbitats importants, com murs de pedra seca, refugis, cavitats o qualitat real de les basses. Alguns grups, com amfibis, ratpenats o rèptils terrestres, requereixen variables més específiques per millorar la fiabilitat dels resultats;
 - No substitueixen la validació de camp;
-- La fiabilitat dels mapes estar afectats per biaixos en les dades de presència utilitzades en l'analisis estadistic
+- La fiabilitat dels mapes pot estar afectada per biaixos en les dades de presència utilitzades en l'analisis estadistic
 ---
 
 ## Contingut principal del repositori

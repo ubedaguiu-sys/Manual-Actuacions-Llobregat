@@ -11,7 +11,7 @@ L’objectiu del repositori és facilitar la consulta del **Manual d’actuacion
 El manual recull una primera proposta d’actuacions per afavorir la biodiversitat en l’entorn fluvial del Llobregat. Inclou mesures generals i actuacions vinculades a diferents grups faunístics, especialment papallones i pol·linitzadors, avifauna i rèptils.
 
 <p align="center">
-  <a href="./Documents/Manual%20d%E2%80%99Actuacions%20per%20a%20la%20Millora%20%281%29.pdf">
+  <a href="./Documents/Manual%20d%E2%80%99Actuacions%20per%20a%20la%20Millora%20%282%29.pdf">
     <img src="./assets/portada-manual.png" alt="Portada del Manual d'Actuacions" width="420">
   </a>
 </p>

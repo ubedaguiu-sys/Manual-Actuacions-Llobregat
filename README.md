@@ -2,7 +2,7 @@
 
 Aquest repositori recull els materials generats en el treball **Catàleg d’actuacions per millorar la biodiversitat en l’entorn fluvial del Llobregat**, desenvolupat en col·laboració amb l’Àrea Metropolitana de Barcelona (AMB).
 
-L’objectiu del repositori és facilitar la consulta del **Manual d’actuacions**, la **memòria metodològica**, la **base de dades ecològica** i els **mapes d’idoneïtat** elaborats com a primera aproximació per orientar actuacions de millora de la biodiversitat al riu Llobregat.
+L’objectiu del repositori és facilitar la consulta del **Manual d’actuacions**, la **memòria metodològica**, la **base de dades ecològica**, el **pòster del treball** i els **mapes d’idoneïtat** elaborats com a primera aproximació per orientar actuacions de millora de la biodiversitat al riu Llobregat.
 
 ---
 
@@ -25,6 +25,18 @@ La memòria explica el procés de desenvolupament del catàleg: context, objecti
 <p align="center">
   <a href="https://github.com/ubedaguiu-sys/Manual-Actuacions-Llobregat/releases/tag/Memoria">
     <img src="https://img.shields.io/badge/MEM%C3%92RIA-%C3%9Altima%20actualitzaci%C3%B3-1F4E79?style=for-the-badge" alt="Descarregar última actualització de la memòria">
+  </a>
+</p>
+
+---
+
+## Pòster del treball
+
+El pòster resumeix de manera visual els objectius, la metodologia, els principals resultats i les conclusions del treball. Està pensat com a material de síntesi per presentar el projecte i facilitar-ne una primera lectura ràpida.
+
+<p align="center">
+  <a href="https://github.com/ubedaguiu-sys/Manual-Actuacions-Llobregat/releases/tag/poster">
+    <img src="https://img.shields.io/badge/P%C3%92STER-%C3%9Altima%20actualitzaci%C3%B3-7A4E9D?style=for-the-badge" alt="Descarregar última actualització del pòster">
   </a>
 </p>
 
@@ -53,10 +65,11 @@ Els mapes tenen valors normalitzats d’idoneïtat entre **0 i 100**:
 
 Els mapes són útils com a eina preliminar de diagnosi i planificació, però presenten limitacions:
 
-- Depenen de la qualitat i escala de les capes cartogràfiques disponibles;
-- Actualment, no tots incorporen microhàbitats importants, com murs de pedra seca, refugis, cavitats o qualitat real de les basses. Alguns grups, com amfibis, ratpenats o rèptils terrestres, requereixen variables més específiques per millorar la fiabilitat dels resultats;
-- No substitueixen la validació de camp;
-- La fiabilitat dels mapes pot estar afectada per biaixos en les dades de presència utilitzades en l'analisis estadistic
+- depenen de la qualitat i escala de les capes cartogràfiques disponibles;
+- actualment, no tots incorporen microhàbitats importants, com murs de pedra seca, refugis, cavitats o qualitat real de les basses. Alguns grups, com amfibis, ratpenats o rèptils terrestres, requereixen variables més específiques per millorar la fiabilitat dels resultats;
+- no substitueixen la validació de camp;
+- la fiabilitat dels mapes pot estar afectada per biaixos en les dades de presència utilitzades en l’anàlisi estadística.
+
 ---
 
 ## Contingut principal del repositori
@@ -66,7 +79,7 @@ Els mapes són útils com a eina preliminar de diagnosi i planificació, però p
 | [`Documents`](./Documents) | Manual, documents metodològics i materials de suport | Consultar els documents finals i la metodologia del projecte |
 | [`Base de dades`](./Base%20de%20dades) | Base de dades, glossari de camps, criteris d’espècies i documents associats | Consultar o ampliar la informació ecològica estructurada |
 | [`assets`](./assets) | Imatges i recursos visuals del repositori | Recursos auxiliars de presentació |
-| [Releases](https://github.com/ubedaguiu-sys/Manual-Actuacions-Llobregat/releases) | Mapes d’idoneïtat i versions descarregables | Descarregar materials pesants o versions empaquetades |
+| [Releases](https://github.com/ubedaguiu-sys/Manual-Actuacions-Llobregat/releases) | Memòria, pòster, mapes d’idoneïtat i versions descarregables | Descarregar materials pesants o versions empaquetades |
 
 ---
 
@@ -81,10 +94,10 @@ El treball s’ha desenvolupat a partir de sis blocs principals:
    Adaptació d’una base de dades prèvia de l’AMB cap a un model relacional més funcional, amb taules per a espècies, grups, hàbitats CORINE, propostes, plantes, basses, calendari i manteniment.
 
 3. **Selecció i revisió d’espècies**  
-   Incorporació i revisió d’espècies d’interès per al context del Llobregat, incloent en la base de dades, per a posteriorment orientar les propostes d'acctuació, aquelles espècies indicadores, funcionals, en regressió, exòtiques invasores o potencialment problemàtiques.
+   Incorporació i revisió d’espècies d’interès per al context del Llobregat, incloent en la base de dades, per orientar posteriorment les propostes d’actuació, aquelles espècies indicadores, funcionals, en regressió, exòtiques invasores o potencialment problemàtiques.
 
 4. **Recopilació d’informació ecològica**  
-   Cerca bibliogràfica sobre hàbitats, requeriments ecològics de les especies, amenaces, relació amb el medi, pressions antròpiques i possibilitats de gestió...
+   Cerca bibliogràfica sobre hàbitats, requeriments ecològics de les espècies, amenaces, relació amb el medi, pressions antròpiques i possibilitats de gestió.
 
 5. **Generació de mapes d’idoneïtat**  
    Elaboració de mapes ràster mitjançant QGIS/PyQGIS a partir de variables com hàbitats CORINE, NDVI, ecotons, connectivitat, basses, murs, edificis, arbustos i altres capes territorials.
@@ -94,7 +107,7 @@ El treball s’ha desenvolupat a partir de sis blocs principals:
 
 ---
 
-## Nombre Espècies i grups treballats
+## Nombre d’espècies i grups treballats
 
 Els mapes d’idoneïtat generats corresponen a diferents grups faunístics:
 
@@ -157,6 +170,7 @@ Aquest repositori pot ser útil per a:
 - consultar el manual d’actuacions;
 - revisar el procés metodològic seguit;
 - descarregar els mapes d’idoneïtat;
+- consultar el pòster del treball;
 - entendre quins criteris ecològics s’han utilitzat;
 - ampliar la base de dades amb noves espècies o propostes;
 - utilitzar els materials com a suport preliminar per a estudis o actuacions futures.
@@ -175,7 +189,7 @@ Abans d’utilitzar els mapes o les propostes per a decisions de gestió, es rec
 
 Aquest repositori recull una **primera versió** dels materials generats. Alguns documents, mapes o fitxers poden ser revisats i actualitzats posteriorment.
 
-Per això, es recomana utilitzar sempre les versions publicades a l’apartat de **Releases** quan es vulgui descarregar la memòria o els mapes d’idoneïtat.
+Per això, es recomana utilitzar sempre les versions publicades a l’apartat de **Releases** quan es vulgui descarregar la memòria, el pòster o els mapes d’idoneïtat.
 
 ---
 
